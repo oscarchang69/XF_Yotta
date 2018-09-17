@@ -1,0 +1,12 @@
+C:\XFLab\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\XFLab\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csprojAssemblyReference.cache
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.CoreCompileInputs.cache
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\XFLab\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\XFLab\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb

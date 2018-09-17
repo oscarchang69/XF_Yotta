@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\XFLab\MVVM\MVVM\MVVM\App.xaml</FilePath>
+      <Hash>CD-07-06-83-FC-C7-DA-B0-EE-0B-24-99-4C-55-A3-4D</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\XFLab\MVVM\MVVM\MVVM\MainPage.xaml</FilePath>
+      <Hash>D1-44-6E-40-BD-44-4E-22-35-60-99-D7-5E-D9-5D-7E</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>
